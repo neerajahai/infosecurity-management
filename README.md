@@ -1,1 +1,1 @@
-# infosecurity-management
+# infosecurity-management/course/cybersecuirty/information security management
